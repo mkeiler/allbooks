@@ -21,7 +21,7 @@ Você pode fazer isso efetuando uma requisição post para:
 POST http://localhost:8000/public/registrar
 ```
 
-Com os seguintes dados:
+Com os seguintes dados: 
 
 
 ```
